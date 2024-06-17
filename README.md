@@ -1,5 +1,6 @@
 # Projeto-2
 front-end de aplicativo a escolha do aluno contendo a seguinte estrutura mínima:
+
 -Página inicial;
 
 -Apresentação do aplicativo;
