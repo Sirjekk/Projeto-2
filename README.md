@@ -15,4 +15,4 @@ front-end de aplicativo a escolha do aluno contendo a seguinte estrutura mínima
 
 -Relatório de desenvolvimento com apresentação.
 
-as imgens no site contem direitos autorais.
+#As imgens no site contem direitos autorais.
